@@ -37,7 +37,9 @@
   }
 }
 
-.List {
+
+
+.list {
   list-style: none;
   display: flex;
   align-items: center;
@@ -48,23 +50,23 @@
   justify-content: space-between;
 }
 
-.List-header {
+.list-header {
   display: flex;
   align-items: center;
 }
 
-.List-header h2 {
+.list-header h2 {
   color: rgb(37, 36, 36)
 }
 
-.List-img {
+.list-img {
   width: 4rem;
   height: 4rem;
   border-radius: 100%;
   margin-right: 0.5rem;
 }
 
-.List-note {
+.list-note {
   width: 30%;
   text-align: left;
 }
